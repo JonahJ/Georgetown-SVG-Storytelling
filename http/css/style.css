@@ -6,6 +6,12 @@
 	src: url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'), url('../fonts/codropsicons/codropsicons.woff') format('woff'), url('../fonts/codropsicons/codropsicons.ttf') format('truetype'), url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
+ #map {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+
 *,
 *:after,
 *:before {
